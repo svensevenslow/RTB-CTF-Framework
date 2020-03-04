@@ -78,7 +78,7 @@ $ cd src/
    ```
 4. Your app should be live now. You can run `heroku open` to open it in browser.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/svensevenslow/RTB-CTF-Framework/tree/Issue%2315/src)
 ## For Your CTF
 
 Using this as simple as anything. 
